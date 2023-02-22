@@ -1,0 +1,7 @@
+requirements for the project:
+Numpy
+Pandas
+Sk-learn
+matplotlib
+Seaborn
+Machine Learning
